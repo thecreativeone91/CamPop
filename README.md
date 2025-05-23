@@ -2,6 +2,9 @@
 CamPop for macOS allows webhooks to pop open an RTSP Camera stream in a window
 
 # Settings
+
+![Screenshot of Settings Window](settings.png)
+
 Set the RTSP URL including rtsp://
 
 Chose your Display Duration
