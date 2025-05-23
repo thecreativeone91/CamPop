@@ -4,7 +4,8 @@ CamPop for macOS allows webhooks to pop open an RTSP Camera stream in a window
 
 # Known Issues
 Camera window is slow to popup 
-requires ffplay to be installed at /opt/homebrew/bin/ffplay - ```run brew install ffmpeg
+requires ffplay to be installed at `/opt/homebrew/bin/ffplay` - run `brew install ffmpeg`
+Windows size/position is currently not honored
 
 
 # Settings
